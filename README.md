@@ -10,7 +10,7 @@ Overtime Pay = Overtime Hours × Hourly Rate × 1.5
 Total Weekly Pay = Regular Pay + Overtime Pay
 
 **How the Salary is Calculated**
-Hourly Rate: Php 150
+Hourly Rate: Php 150__
 Regular Hours: Up to 40 hours/week
 Overtime Pay: Any hours beyond 40 are paid at 1.5× hourly rate
 
