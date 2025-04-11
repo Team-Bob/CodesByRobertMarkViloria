@@ -14,7 +14,7 @@ The main goal of this week's task is to:
 - Displays employee information in the NetBeans console using System.out.println.
 - Follows the design from team-created wireframes for displaying data..
 
-=============================================================================
+=======================================================================================
 
 **This is for Task# 8 - Calculate Salary Based on Hours Worked**
 This is a simple Java console application that calculates the **weekly salary** of the first 10 employees based on the number of hours they worked in a week. It provides a **step-by-step breakdown** of regular and overtime pay.
